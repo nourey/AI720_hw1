@@ -1,6 +1,5 @@
 # Creating lists
-first_list=[]
-second_list=[]
+first_list, second_list=[],[]
 
 for i in range(10):
     if i%2 != 0 :
